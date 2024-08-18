@@ -1,3 +1,11 @@
+import subprocess
+
+def install_requirements(requirements_file):
+  """Installs packages from a requirements file."""
+  subprocess.check_call(['pip', 'install', '-r', requirements_file])
+
+# Example usage:
+install_requirements('requirements.txt')
 #pip install setuptools, SpeechRecognition, pyaudio, pyttsx3, text-to-speech
 #Speech Recognition Part
 import speech_recognition as sr

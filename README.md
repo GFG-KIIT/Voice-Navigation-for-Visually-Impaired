@@ -1,1 +1,1 @@
-# Empowering-the-Visually-Impaired-Seamless-Usage-of-Computers-through-Voice
+Empowering the Visually Impaired: Seamless Indoor Navigation through Voice Assistance
